@@ -3,10 +3,11 @@
   <groupId>JinRyu</groupId>
   <artifactId>JRMCore-deobf</artifactId>
   <versioning>
-    <release>1.3.41</release>
+    <release>1.3.46</release>
     <versions>
       <version>1.3.41</version>
+      <version>1.3.46</version>
     </versions>
-    <lastUpdated>20220921075332</lastUpdated>
+    <lastUpdated>20221223184919</lastUpdated>
   </versioning>
 </metadata>
