@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 14 20:56:44 IDT 2023
+launchwrapper-1.18-sources.jar>=
+launchwrapper-1.18.jar>=
+launchwrapper-1.18.pom>=
