@@ -3,7 +3,7 @@
   <groupId>jinryuu</groupId>
   <artifactId>jbra</artifactId>
   <versioning>
-    <release>1.6.8-deobf</release>
+    <release>1.6.13-deobf</release>
     <versions>
       <version>1.6.51</version>
       <version>1.5.8</version>
@@ -32,7 +32,15 @@
       <version>1.6.7-deobf</version>
       <version>1.6.8</version>
       <version>1.6.8-deobf</version>
+      <version>1.6.9</version>
+      <version>1.6.9-deobf</version>
+      <version>1.6.10</version>
+      <version>1.6.10-deobf</version>
+      <version>1.6.11</version>
+      <version>1.6.11-deobf</version>
+      <version>1.6.12</version>
+      <version>1.6.12-deobf</version>
     </versions>
-    <lastUpdated>20230815222223</lastUpdated>
+    <lastUpdated>20230815224900</lastUpdated>
   </versioning>
 </metadata>
