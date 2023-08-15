@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 16 01:20:16 IDT 2023
+family-1.2.11-deobf.jar>=
+family-1.2.11-deobf.pom>=
+family-1.2.11-deobf-sources.jar>=

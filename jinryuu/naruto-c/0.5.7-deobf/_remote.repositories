@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 16 00:45:15 IDT 2023
+naruto-c-0.5.7-deobf.pom>=
+naruto-c-0.5.7-deobf.jar>=
+naruto-c-0.5.7-deobf-sources.jar>=

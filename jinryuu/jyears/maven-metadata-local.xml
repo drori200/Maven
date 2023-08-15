@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>jinryuu</groupId>
+  <artifactId>jyears</artifactId>
+  <versioning>
+    <release>1.2.2-deobf</release>
+    <versions>
+      <version>1.2.2</version>
+      <version>1.2.2-deobf</version>
+    </versions>
+    <lastUpdated>20230815222226</lastUpdated>
+  </versioning>
+</metadata>
