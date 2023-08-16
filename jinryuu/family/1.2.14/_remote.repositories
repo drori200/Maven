@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 16 05:52:12 IDT 2023
+family-1.2.14-sources.jar>=
+family-1.2.14.jar>=
+family-1.2.14.pom>=

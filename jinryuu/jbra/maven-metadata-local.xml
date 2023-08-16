@@ -3,7 +3,7 @@
   <groupId>jinryuu</groupId>
   <artifactId>jbra</artifactId>
   <versioning>
-    <release>1.6.13-deobf</release>
+    <release>1.6.29-deobf</release>
     <versions>
       <version>1.6.51</version>
       <version>1.5.8</version>
@@ -40,7 +40,39 @@
       <version>1.6.11-deobf</version>
       <version>1.6.12</version>
       <version>1.6.12-deobf</version>
+      <version>1.6.13</version>
+      <version>1.6.13-deobf</version>
+      <version>1.6.14</version>
+      <version>1.6.14-deobf</version>
+      <version>1.6.15</version>
+      <version>1.6.15-deobf</version>
+      <version>1.6.16</version>
+      <version>1.6.16-deobf</version>
+      <version>1.6.17</version>
+      <version>1.6.17-deobf</version>
+      <version>1.6.18</version>
+      <version>1.6.18-deobf</version>
+      <version>1.6.19</version>
+      <version>1.6.19-deobf</version>
+      <version>1.6.20</version>
+      <version>1.6.20-deobf</version>
+      <version>1.6.21</version>
+      <version>1.6.21-deobf</version>
+      <version>1.6.22</version>
+      <version>1.6.22-deobf</version>
+      <version>1.6.23</version>
+      <version>1.6.23-deobf</version>
+      <version>1.6.24</version>
+      <version>1.6.24-deobf</version>
+      <version>1.6.25</version>
+      <version>1.6.25-deobf</version>
+      <version>1.6.26</version>
+      <version>1.6.26-deobf</version>
+      <version>1.6.28</version>
+      <version>1.6.28-deobf</version>
+      <version>1.6.29</version>
+      <version>1.6.29-deobf</version>
     </versions>
-    <lastUpdated>20230815224900</lastUpdated>
+    <lastUpdated>20230816033559</lastUpdated>
   </versioning>
 </metadata>

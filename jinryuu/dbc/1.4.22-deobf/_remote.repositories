@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 16 05:36:13 IDT 2023
+dbc-1.4.22-deobf.pom>=
+dbc-1.4.22-deobf.jar>=
+dbc-1.4.22-deobf-sources.jar>=

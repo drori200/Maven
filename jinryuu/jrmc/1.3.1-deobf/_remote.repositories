@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 16 06:23:47 IDT 2023
+jrmc-1.3.1-deobf-sources.jar>=
+jrmc-1.3.1-deobf.jar>=
+jrmc-1.3.1-deobf.pom>=

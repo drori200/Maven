@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 16 06:10:04 IDT 2023
+naruto-c-0.6.3.pom>=
+naruto-c-0.6.3.jar>=
+naruto-c-0.6.3-sources.jar>=

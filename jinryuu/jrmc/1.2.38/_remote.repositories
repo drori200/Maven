@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 16 06:00:08 IDT 2023
+jrmc-1.2.38.pom>=
+jrmc-1.2.38.jar>=
+jrmc-1.2.38-sources.jar>=

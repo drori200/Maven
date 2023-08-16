@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 16 06:35:17 IDT 2023
+dbc-1.4.46.pom>=
+dbc-1.4.46.jar>=
+dbc-1.4.46-sources.jar>=
