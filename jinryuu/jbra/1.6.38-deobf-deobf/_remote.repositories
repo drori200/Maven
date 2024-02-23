@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 23 22:29:40 IST 2024
+jbra-1.6.38-deobf-deobf.pom>=
+jbra-1.6.38-deobf-deobf-sources.jar>=
+jbra-1.6.38-deobf-deobf.jar>=

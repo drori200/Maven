@@ -1,5 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Aug 16 01:01:26 IDT 2023
-family-1.2.7-deobf.pom>=
+#Fri Feb 23 15:52:39 IST 2024
 family-1.2.7-deobf.jar>=
 family-1.2.7-deobf-sources.jar>=
+family-1.2.7-deobf.pom>=

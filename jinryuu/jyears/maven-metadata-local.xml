@@ -3,13 +3,17 @@
   <groupId>jinryuu</groupId>
   <artifactId>jyears</artifactId>
   <versioning>
-    <release>1.2.3-deobf</release>
+    <release>1.2.5-deobf</release>
     <versions>
       <version>1.2.2</version>
       <version>1.2.2-deobf</version>
       <version>1.2.3</version>
       <version>1.2.3-deobf</version>
+      <version>1.2.4</version>
+      <version>1.2.4-deobf</version>
+      <version>1.2.5</version>
+      <version>1.2.5-deobf</version>
     </versions>
-    <lastUpdated>20230816033601</lastUpdated>
+    <lastUpdated>20240223181757</lastUpdated>
   </versioning>
 </metadata>
