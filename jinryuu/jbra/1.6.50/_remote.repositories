@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 24 12:30:09 IST 2024
+jbra-1.6.50-sources.jar>=
+jbra-1.6.50.jar>=
+jbra-1.6.50.pom>=

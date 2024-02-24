@@ -3,7 +3,7 @@
   <groupId>jinryuu</groupId>
   <artifactId>family</artifactId>
   <versioning>
-    <release>1.2.17-deobf</release>
+    <release>1.2.18-deobf</release>
     <versions>
       <version>1.2.4</version>
       <version>1.2.4-deobf</version>
@@ -34,7 +34,9 @@
       <version>1.2.16-deobf</version>
       <version>1.2.17</version>
       <version>1.2.17-deobf</version>
+      <version>1.2.18</version>
+      <version>1.2.18-deobf</version>
     </versions>
-    <lastUpdated>20240223203829</lastUpdated>
+    <lastUpdated>20240224104633</lastUpdated>
   </versioning>
 </metadata>
