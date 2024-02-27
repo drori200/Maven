@@ -3,7 +3,7 @@
   <groupId>jinryuu</groupId>
   <artifactId>naruto-c</artifactId>
   <versioning>
-    <release>0.7.18-deobf-deobf</release>
+    <release>0.7.18-deobf</release>
     <versions>
       <version>0.5.6</version>
       <version>0.5.6-deobf</version>
@@ -86,6 +86,6 @@
       <version>0.7.18-deobf</version>
       <version>0.7.18-deobf-deobf</version>
     </versions>
-    <lastUpdated>20240225000045</lastUpdated>
+    <lastUpdated>20240227152938</lastUpdated>
   </versioning>
 </metadata>
