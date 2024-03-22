@@ -3,7 +3,7 @@
   <groupId>jinryuu</groupId>
   <artifactId>jbra</artifactId>
   <versioning>
-    <release>1.6.50-deobf</release>
+    <release>1.6.51-deobf</release>
     <versions>
       <version>1.6.51</version>
       <version>1.5.8</version>
@@ -123,6 +123,6 @@
       <version>1.6.52</version>
       <version>1.6.52-deobf</version>
     </versions>
-    <lastUpdated>20240227202408</lastUpdated>
+    <lastUpdated>20240322064138</lastUpdated>
   </versioning>
 </metadata>
